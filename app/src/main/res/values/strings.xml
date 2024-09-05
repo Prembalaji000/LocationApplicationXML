@@ -1,0 +1,5 @@
+<resources>
+    <string name="LocationApp">LocationApplication</string>
+    <string name="Google_map_api_key">AIzaSyBnUuPK7JvozmBwsfX2pv9STGdT9AKz6VE</string>
+    <string name="image">Image</string>
+</resources>
